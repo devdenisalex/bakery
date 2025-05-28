@@ -12,5 +12,13 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.7",
     "tailwindcss": "^4.1.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdenisalex/bakery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devdenisalex/bakery/issues"
+  },
+  "homepage": "https://github.com/devdenisalex/bakery#readme"
 }
