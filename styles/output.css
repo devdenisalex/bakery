@@ -168,9 +168,6 @@
     --tw-font-weight: var(--font-weight-bold);
     font-weight: var(--font-weight-bold);
   }
-  .underline {
-    text-decoration-line: underline;
-  }
 }
 @property --tw-font-weight {
   syntax: "*";
